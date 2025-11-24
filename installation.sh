@@ -80,5 +80,3 @@ curl -LO "https://github.com/GoogleCloudPlatform/terraformer/releases/download/$
 chmod +x terraformer-${PROVIDER}-linux-amd64
 sudo mv terraformer-${PROVIDER}-linux-amd64 /usr/local/bin/terraformer
 
-
-
