@@ -11,7 +11,7 @@ sudo apt update && sudo apt upgrade -y
 ## 2. Install Java 17 (OpenJDK)
 Jenkins requires a Java runtime environment to operate. Install the development kit using the following commands.
 ```bash
-sudo apt install openjdk-17-jdk -y
+sudo apt install fontconfig openjdk-21-jre
 ```
 To verify the installation:
 ```bash
